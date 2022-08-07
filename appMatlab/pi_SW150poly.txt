@@ -1,0 +1,21 @@
+fabricante	SolarWord
+modelo	Sunmodule150SW
+Pm	150
+Voc	22.5
+Vpm	18.3
+Imp	8.27
+Isc	8.81
+Ki	0.007136
+Kv	-0.08325
+Ns	36
+Np	1
+largo 	0.156
+ancho 	0.156
+	
+pámetros internos calculados	
+Rs	0.181
+Rp	158.852
+n1	1
+n2	1.2
+Io1=Io2	2.45E-10
+Ipv	8.81
